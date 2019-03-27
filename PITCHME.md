@@ -1,6 +1,6 @@
 ---?color=linear-gradient(to bottom, #c7c9c8, #63666a)
 @snap[north north-pin]
-# Get pinned 
+# Get mapped 
 ## in the Department of Geography!
 @snapend
 
