@@ -1,0 +1,10 @@
+{
+    "official": #0033a0,
+    "secondary": {
+        "lightblue": #009bda,
+        "darkblue": #15397f,
+        "lightgray": #63666a,
+        "darkgray" : #c7c9c8
+    }, 
+    "nmp": #1AAAAC
+}

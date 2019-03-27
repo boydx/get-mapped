@@ -1,0 +1,5 @@
+background-size : cover
+theme : night
+footnote : "Get pinned: map your dissertation, thesis, or field work."
+# background-color: linear-gradient(to bottom, #009bda, #1AAAAC)
+theme-override : PITCHME.css

@@ -1,0 +1,25 @@
+/* Overide default styles */
+
+.reveal section img {
+    margin: 15px 0px;
+    background: rgba(255, 255, 255, 0); 
+    border: 0px;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.img-pin {
+    width: 35%;
+}
+
+.north-pin {
+    width: 100%;
+}
+
+.north-pin h1 {
+    font-size: 3em;
+    text-shadow: 1px 1px 0 #555, 2px 2px 5px #aaa, 3px 3px 0 #555, 4px 4px 5px #aaa, 5px 5px 0 #555;
+}
+.north-pin h2{
+    width: 100%;
+    font-size: 1.5em;
+}
