@@ -34,7 +34,7 @@ Click on a map pin for the popup content.
 @ul
 * If you have a publication you would like to share, please complete the form on the next page.
 * The only required items are the project title & type.
-* You should also provide a *zip code* and/or a *country and state/territory*.
+* You should also provide a **zip code** and/or a **c*ountry and state/territory**.
 * Any other info you provide will be added as content in your pin's popup.
 @ulend
 @snapend
