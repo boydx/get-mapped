@@ -44,7 +44,11 @@ Click on a map pin for the popup content.
 
 <!-- ---?color=linear-gradient(to bottom, #009bda, #1AAAAC) -->
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
-@snap[north-pin]
+@snap[north north-pin]
 # Thank you!
+@snapend
+
+@snap[south img-pin]
+![UKy Geography](uky-geo-pin.png)
 @snapend
 <!-- ---?color=linear-gradient(to bottom, #009bda, #63666a) -->
