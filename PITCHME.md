@@ -41,7 +41,7 @@ Click on a map pin for the popup content.
 
 
 ---?survey=https://docs.google.com/forms/d/e/1FAIpQLScoVALzU0oiq2jipTYn1u-DgGV5GuDSK88RCj0R8umjmfYEVQ/viewform?usp=sf_link
-[Link](https://docs.google.com/forms/d/e/1FAIpQLScoVALzU0oiq2jipTYn1u-DgGV5GuDSK88RCj0R8umjmfYEVQ/viewform?usp=sf_link)
+[Form link](https://docs.google.com/forms/d/e/1FAIpQLScoVALzU0oiq2jipTYn1u-DgGV5GuDSK88RCj0R8umjmfYEVQ/viewform?usp=sf_link)
 
 <!-- ---?color=linear-gradient(to bottom, #009bda, #1AAAAC) -->
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
