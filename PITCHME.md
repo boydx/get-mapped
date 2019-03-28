@@ -39,9 +39,6 @@ Click on a map pin for the popup content.
 @ulend
 @snapend
 
----
-[Link](https://docs.google.com/forms/d/e/1FAIpQLScoVALzU0oiq2jipTYn1u-DgGV5GuDSK88RCj0R8umjmfYEVQ/viewform?usp=sf_link)
-
 
 ---?survey=https://docs.google.com/forms/d/e/1FAIpQLScoVALzU0oiq2jipTYn1u-DgGV5GuDSK88RCj0R8umjmfYEVQ/viewform?usp=sf_link
 [Link](https://docs.google.com/forms/d/e/1FAIpQLScoVALzU0oiq2jipTYn1u-DgGV5GuDSK88RCj0R8umjmfYEVQ/viewform?usp=sf_link)
