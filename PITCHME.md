@@ -29,9 +29,9 @@ Click on a map pin for the popup content.
 ---?color=linear-gradient(to bottom,#c7c9c8, #63666a)
 <iframe src='https://newmapsplus.github.io/projects/' width='550px' height='600px'></iframe>
 
----?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
+---?color=linear-gradient(to bottom, #009bda, #1AAAAC) 
 @snap[north-pin]
-Know the location of one of these?
+Titles
 @snapend
 <iframe src='https://boydx.github.io/get-mapped/titles.html' width='100%' height='400px'></iframe>
 
@@ -41,8 +41,7 @@ Know the location of one of these?
 # Survey
 @snapend
 * If you know a research location, please complete the form on the next page.
-* The only required items are the project title & type.
-* You should also provide a **zip code** and/or a **country and state/territory**.
+* Provide a zip code and/or a country and state/territory.
 * Any other info you provide will be added as content in the pin's popup.
 
 
