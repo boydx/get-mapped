@@ -1,7 +1,8 @@
 ---?color=linear-gradient(to bottom, #c7c9c8, #63666a)
 @snap[north north-pin]
-# Get mapped 
-## in the Department of Geography!
+# Where is
+## your research location?
+#### A geocoding project in the Department of Geography.
 @snapend
 
 @snap[south img-pin]
@@ -12,11 +13,11 @@
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
 @snap[north-pin]
 # Goal
-@ul
+@snapend
 * In celebration of the Department's 75th Anniversary, we like to map the field work locations for dissertations, theses, and other significant publications in the department.
 * We are asking alums to submit information that can help locate their work.
-@ulend
-@snapend
+
+
 
 ---?color=linear-gradient(to bottom,#c7c9c8, #63666a)
 @snap[north-pin]
@@ -30,14 +31,21 @@ Click on a map pin for the popup content.
 
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
 @snap[north-pin]
+**Titles**. Know the location of one of these?
+@snapend
+<iframe src='titles.html' width='100%' height='400px'></iframe>
+
+
+---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
+@snap[north-pin]
 # Survey
-@ul
-* If you have a publication you would like to share, please complete the form on the next page.
+@snapend
+* If you know a research location, please complete the form on the next page.
 * The only required items are the project title & type.
 * You should also provide a **zip code** and/or a **country and state/territory**.
-* Any other info you provide will be added as content in your pin's popup.
-@ulend
-@snapend
+* Any other info you provide will be added as content in the pin's popup.
+
+
 
 
 ---?survey=https://docs.google.com/forms/d/e/1FAIpQLScoVALzU0oiq2jipTYn1u-DgGV5GuDSK88RCj0R8umjmfYEVQ/viewform?usp=sf_link
