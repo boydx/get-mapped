@@ -29,7 +29,6 @@ Click on a map pin for the popup content.
 ---?color=linear-gradient(to bottom,#c7c9c8, #63666a)
 <iframe src='https://newmapsplus.github.io/projects/' width='550px' height='600px'></iframe>
 
-<!-- ---?color=linear-gradient(to bottom, #009bda, #1AAAAC)  -->
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
 @snap[north-pin]
 # Titles
