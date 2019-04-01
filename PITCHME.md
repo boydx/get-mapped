@@ -33,7 +33,7 @@ Click on a map pin for the popup content.
 @snap[north-pin]
 **Titles**. Know the location of one of these?
 @snapend
-<iframe src='titles.html' width='100%' height='400px'></iframe>
+<iframe src='https://boydx.github.io/get-mapped/titles.html' width='100%' height='400px'></iframe>
 
 
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
