@@ -2,7 +2,6 @@
 @snap[north north-pin]
 # Where is
 ## your research location?
-#### A geocoding project in the Department of Geography.
 @snapend
 
 @snap[south img-pin]
