@@ -21,8 +21,7 @@
 ---?color=linear-gradient(to bottom,#c7c9c8, #63666a)
 @snap[north-pin]
 # Example
-### New Maps Plus student locations
-Click on a map pin for the popup content.
+### New Maps Plus projects
 @snapend
 
 ---?color=linear-gradient(to bottom,#c7c9c8, #63666a)
