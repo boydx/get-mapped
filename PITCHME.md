@@ -16,17 +16,6 @@
 * Map the field work locations for dissertations, theses, and other significant publications in the department.
 * We are asking alums to submit information that can help locate their work.
 
-
-
----?color=linear-gradient(to bottom,#c7c9c8, #63666a)
-@snap[north north-pin]
-# Example
-### New Maps Plus projects
-@snapend
-
----?color=linear-gradient(to bottom,#c7c9c8, #63666a)
-<iframe src='https://newmapsplus.github.io/projects/' width='550px' height='600px'></iframe>
-
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
 @snap[north north-pin]
 # Titles
@@ -58,3 +47,12 @@
 ![UKy Geography](uky-geo-pin.png)
 @snapend
 <!-- ---?color=linear-gradient(to bottom, #009bda, #63666a) -->
+
+---?color=linear-gradient(to bottom,#c7c9c8, #63666a)
+@snap[north north-pin]
+# Example
+### New Maps Plus projects
+@snapend
+
+---?color=linear-gradient(to bottom,#c7c9c8, #63666a)
+<iframe src='https://newmapsplus.github.io/projects/' width='550px' height='600px'></iframe>
