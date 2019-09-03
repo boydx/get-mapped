@@ -10,16 +10,16 @@
 
 
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
-@snap[north-pin]
+@snap[north north-pin]
 # Goal
 @snapend
-* In celebration of the Department's 75th Anniversary, we like to map the field work locations for dissertations, theses, and other significant publications in the department.
+* Map the field work locations for dissertations, theses, and other significant publications in the department.
 * We are asking alums to submit information that can help locate their work.
 
 
 
 ---?color=linear-gradient(to bottom,#c7c9c8, #63666a)
-@snap[north-pin]
+@snap[north north-pin]
 # Example
 ### New Maps Plus projects
 @snapend
@@ -28,14 +28,14 @@
 <iframe src='https://newmapsplus.github.io/projects/' width='550px' height='600px'></iframe>
 
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
-@snap[north-pin]
+@snap[north north-pin]
 # Titles
 @snapend
 <iframe src='https://boydx.github.io/get-mapped/titles.html' width='100%' height='400px'></iframe>
 
 
 ---?color=linear-gradient(to bottom,  #c7c9c8, #63666a)
-@snap[north-pin]
+@snap[north north-pin]
 # Survey
 @snapend
 * If you know a research location, please complete the form on the next page.
